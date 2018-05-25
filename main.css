@@ -1,0 +1,34 @@
+.heading {
+    background-color: darkorange;
+    font-family: 'Autour One';
+    text-align: center;
+}
+
+.liz {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.meaning {
+    border: solid;
+    padding: 10px;
+    border-color: darkorange; 
+    font-family: 'Autour One';
+    text-align: center;
+}
+
+h3 {
+    text-decoration-line: underline;
+    text-decoration-color: darkorange; 
+}
+
+
+.flex-container {
+    background-color: darkorange;
+    height: 5px;
+    display: inline-block;
+    /* justify-content: center; */
+    justify-content: space-around;
+  }
